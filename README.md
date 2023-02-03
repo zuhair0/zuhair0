@@ -70,6 +70,10 @@ I'm Zuhair Saleem. Full stack Web Developer.
         <img alt="MongoDB"
             src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     </a>
+  <a href="https://www.w3schools.com/cs/cs_intro.php" target="_blank">
+        <img alt="C#"
+            src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    </a>
 </p>
 
 
