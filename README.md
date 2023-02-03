@@ -11,15 +11,15 @@ I'm Zuhair Saleem. I'm 6th semester student of program "Information Technology" 
 
 ## 👯 Connect with me
 <p>
-    <a href="https://www.linkedin.com/in/abdullahqaisarr/" target="_blank">
-        <img alt="JavaScript"
+    <a href="https://www.linkedin.com/in/zuhair-saleem-38a26123b" target="_blank">
+        <img alt="Linkedin"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdullahqaisarr@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=zuhairsaleem123@gmail.com&tf=cm" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://github.com/abdullahqaisar" target="_blank">
-        <img alt="Gmail"
+    <a href="https://github.com/zuhair0" target="_blank">
+        <img alt="Github"
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </p>
