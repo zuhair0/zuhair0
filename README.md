@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-I'm Zuhair Saleem. Full stack Web Developer.
+I'm Zuhair Saleem. I'm 6th semester student of program "Information Technology" from Air University Islamabad. I am a full stack web develper and also expert in some programming languages such as c++, c#, java etc. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science.
   </samp>
   <br/>
   <br/>
