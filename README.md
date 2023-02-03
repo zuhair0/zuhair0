@@ -30,11 +30,15 @@ I'm Zuhair Saleem. Full stack Web Developer.
     <summary><b>Languages</b></summary>
   <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
         <img alt="C++"
-            src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+            src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     </a>
   <a href="https://www.w3schools.com/cs/cs_intro.php" target="_blank">
         <img alt="C#"
-            src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+            src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    </a>
+  <a href="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+        <img alt="SQL"
+            src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img alt="JavaScript"
@@ -58,12 +62,9 @@ I'm Zuhair Saleem. Full stack Web Developer.
     <br />
     <br />
     <summary><b>Backend Developement</b></summary>
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img alt="Node.js"
-            src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img alt="Express.JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet#:~:text=.NET%20is%20a%20free%2C%20cross,games%2C%20IoT%2C%20and%20more." target="_blank">
+        <img alt=".NET"
+            src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     </a>
     <a href="https://nodejs.org/en/" target="_blank">
         <img alt="MongoDB"
