@@ -66,7 +66,7 @@ I'm Zuhair Saleem. I'm 6th semester student of program "Information Technology" 
         <img alt=".NET"
             src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     </a>
-    <a href="https://nodejs.org/en/" target="_blank">
+    <a href="https://www.w3schools.com/mongodb/" target="_blank">
         <img alt="MongoDB"
             src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     </a>
