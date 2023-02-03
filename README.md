@@ -10,7 +10,7 @@ I'm Zuhair Saleem. Full stack Web Developer.
 </p>
 
 ## 👯 Connect with me
-<p align="center">
+<p>
     <a href="https://www.linkedin.com/in/abdullahqaisarr/" target="_blank">
         <img alt="JavaScript"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -26,7 +26,7 @@ I'm Zuhair Saleem. Full stack Web Developer.
 
 ## 🛠️ My Skills
 
-<p align="center">
+<p>
     <summary><b>Languages</b></summary>
   <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
         <img alt="C++"
