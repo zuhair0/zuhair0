@@ -28,13 +28,13 @@ I'm Zuhair Saleem. Full stack Web Developer.
 
 <p>
     <summary><b>Languages</b></summary>
+  <a href="https://www.python.org" target="_blank">
+        <img alt="C++"
+            src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img alt="JavaScript"
             src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img alt="Python"
-            src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </a>
     <br />
     <br />
@@ -46,14 +46,6 @@ I'm Zuhair Saleem. Full stack Web Developer.
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img alt="CSS"
             src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    </a>
-    <a href="https://www.w3schools.com/react/" target="_blank">
-        <img alt="ReactJS"
-            src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    </a>
-    <a href="https://mui.com/" target="_blank">
-        <img alt="Material-UI"
-            src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
     </a>
     <a href="https://getbootstrap.com/" target="_blank">
         <img alt="Bootstrap"
