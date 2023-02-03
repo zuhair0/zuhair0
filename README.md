@@ -10,7 +10,7 @@ I'm Zuhair Saleem. Full stack Web Developer.
 </p>
 
 ## 👯 Connect with me
-<p>
+<p align="center">
     <a href="https://www.linkedin.com/in/abdullahqaisarr/" target="_blank">
         <img alt="JavaScript"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -26,7 +26,7 @@ I'm Zuhair Saleem. Full stack Web Developer.
 
 ## 🛠️ My Skills
 
-<p>
+<p align="center">
     <summary><b>Languages</b></summary>
   <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
         <img alt="C++"
@@ -78,11 +78,11 @@ I'm Zuhair Saleem. Full stack Web Developer.
 
 
 ## 🔥 Streak Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhair0&theme=algolia"
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhair0&theme=algolia"
         alt="zuhair saleem" /></p>
         
 ## 📊 Github Stats
-<p>
+<p align="center">
     <a href="https://github.com/zuhair0/github-readme-stats"><img alt="Zuhair's Github Stats"
             src="https://github-readme-stats.vercel.app/api?username=zuhair0&show_icons=true&count_private=true&theme=algolia"
             height="192px" /></a>
