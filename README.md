@@ -6,7 +6,7 @@ I'm Zuhair Saleem. Full stack Web Developer.
   </samp>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=zuhair0&show_icons=true" alt="Zuhair Saleem Github Stats"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=zuhair0&show_icons=true&count_private=true&theme=algolia"></img>
 </p>
 
 ## 👯 Connect with me
