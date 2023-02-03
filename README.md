@@ -25,16 +25,16 @@ I'm Zuhair Saleem. Full stack Web Developer.
 </p>
 
 ## 🔥 Streak Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqaisar&theme=algolia"
-        alt="abdullahqaisar" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhair0&theme=algolia"
+        alt="zuhair saleem" /></p>
         
 ## 📊 Github Stats
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdullah's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=abdullahqaisar&show_icons=true&count_private=true&theme=algolia"
+    <a href="https://github.com/zuhair0/github-readme-stats"><img alt="Abdullah's Github Stats"
+            src="https://github-readme-stats.vercel.app/api?username=zuhair0&show_icons=true&count_private=true&theme=algolia"
             height="192px" /></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahqaisar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
-        alt="abdullahqaisar" height="192px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zuhair0&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
+        alt="Zuhair Saleem" height="192px" />
     <br />
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
     experience or skill level.
