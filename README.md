@@ -28,8 +28,12 @@ I'm Zuhair Saleem. Full stack Web Developer.
 
 <p>
     <summary><b>Languages</b></summary>
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
         <img alt="C++"
+            src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    </a>
+  <a href="https://www.w3schools.com/cs/cs_intro.php" target="_blank">
+        <img alt="C#"
             src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
