@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-I'm Zuhair Saleem. I'm 8th semester student of program "Information Technology" from Air University Islamabad. I am a full stack web develper and also expert in some programming languages such as c++, c#, java etc. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science.
+Hi there! I'm Zuhair Saleem, an 8th-semester student pursuing Information Technology at Air University, Islamabad. I'm passionate about full-stack web development and proficient in various programming languages like C++, C#, Java, and more. Currently, I'm honing my skills as an Associate Software Engineer at Futurenostics. Proactive learner and always excited to explore the latest trends and advancements in computer science.
   </samp>
   <br/>
   <br/>
