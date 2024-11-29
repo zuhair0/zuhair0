@@ -14,7 +14,7 @@ As a proactive learner, I thrive in collaborative environments and am always exc
   </samp>
   <br/>
   <br/>
-  <img style="text-align:center;" src="https://github-readme-stats.vercel.app/api?username=zuhair0&show_icons=true&count_private=true&theme=algolia"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=zuhair0&show_icons=true&count_private=true&theme=algolia"></img>
 </p>
 
 ## 👯 Connect with me
