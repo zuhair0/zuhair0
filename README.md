@@ -2,7 +2,15 @@
 
 <p align="center">
   <samp>
-Hi there! I'm Zuhair Saleem, an 8th-semester student pursuing Information Technology at Air University, Islamabad. I'm passionate about full-stack web development and proficient in various programming languages like C++, C#, Java, and more. Currently, I'm honing my skills as an Associate Software Engineer at Futurenostics. Proactive learner and always excited to explore the latest trends and advancements in computer science.
+Full-Stack Developer | .NET & .NET Core | Software Engineer | Technology Enthusiast
+
+I'm a graduate in Information Technology, with a strong foundation in software development and a passion for building scalable, high-performance applications. Currently, I work as a Full-Stack Developer in a private company, where I specialize in .NET and .NET Core technologies to deliver end-to-end solutions. My experience spans both front-end and back-end development, and I enjoy creating seamless user experiences through the latest frameworks and best practices.
+
+I’m always looking to enhance my skills and stay up-to-date with the ever-evolving tech landscape, especially in areas like cloud computing, microservices, and modern development tools.
+
+Outside of work, I’m an avid football player, enjoying the physical challenge and team dynamics. Gaming is another of my hobbies, where I enjoy exploring new worlds and challenges.
+
+As a proactive learner, I thrive in collaborative environments and am always excited to take on new challenges that push me to grow both professionally and personally.
   </samp>
   <br/>
   <br/>
